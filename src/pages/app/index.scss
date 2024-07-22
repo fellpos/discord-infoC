@@ -1,0 +1,45 @@
+.pagina-app{
+
+    .busca  {
+        padding: 0px 40px;
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+
+        input{
+            border-radius: 6px;
+            width: 900px;
+            height: 50px;
+            font-size: 20px;
+
+            background-color: #EBEBEB;
+        }
+
+        button{
+            background-color: hsl(235,calc(1*85.6%),64.7%);
+            margin-left: 15px;
+            height: 50px;
+            width: 50px;
+
+            border: 0px ;
+            border-radius: 5px;
+
+        }
+
+        margin-bottom: 100px;
+    }
+    
+    .secao2{
+
+    }
+
+    .lista-nav{
+
+    }
+
+    .card{
+        
+    }
+}
